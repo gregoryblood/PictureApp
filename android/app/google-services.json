@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99783673219",
+    "project_id": "beerapp-e4f1b",
+    "storage_bucket": "beerapp-e4f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99783673219:android:85fe4a93f96dde013662b6",
+        "android_client_info": {
+          "package_name": "com.gregory.pictureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99783673219-dhvgjen6174fq20au3kumk83bheikqmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJJ26Mi0UaS1bSq4OJCWHg51JlKL8sR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99783673219-dhvgjen6174fq20au3kumk83bheikqmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
